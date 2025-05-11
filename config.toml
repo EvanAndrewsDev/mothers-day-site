@@ -1,0 +1,30 @@
+baseURL = "https://evanandrewsdev.github.io/mothers-day-site/"
+languageCode = "en-us"
+title = "Happy Mother's Day"
+theme = "split"
+
+[params]
+    description = "A special site for Mom"
+    bgimg = "images/mom-bg.jpg"
+    custom_css = ["css/custom.css"]
+
+[[menu.main]]
+    name = "Home"
+    url = "#home"
+    weight = 1
+
+[[menu.main]]
+    name = "Letters"
+    url = "#letters"
+    weight = 2
+
+[[menu.main]]
+    name = "Gallery"
+    url = "#gallery"
+    weight = 3
+
+[[menu.main]]
+    name = "Timeline"
+    url = "#timeline"
+    weight = 4
+
