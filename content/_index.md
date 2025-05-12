@@ -1,6 +1,6 @@
 ---
 title: "Happy Mother's Day!"
-featured_image: "/images/mom-bg.JPG"
+featured_image: "images/mom-bg.JPG"
 ---
 
 # Happy Mother’s Day, Mom!
