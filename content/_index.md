@@ -38,10 +38,10 @@ _Best traditions_
 
 ## Special Moments Counter
 
-- **1000** calls this year
-- **100** laughs we’ve shared
-- **20** times I've thought how lucky I am to have you as a mom 
-- **countless** times you helped brighten my day
+- **1000** Calls this year
+- **100** Laughs we’ve shared
+- **20** Times I've thought how lucky I am to have you as a mom 
+- **countless** Times you helped brighten my day
 
 ---
 
