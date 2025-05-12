@@ -19,8 +19,9 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: '0.125.4'  # use latest or match your local version
+          hugo-version: '0.128.1'  # or latest Ananke-compatible version
           extended: true
+
 
       - name: Build
         run: hugo --minify
