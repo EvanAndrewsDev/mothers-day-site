@@ -40,7 +40,7 @@ _Best traditions_
 
 - **1000** calls this year
 - **100** laughs we’ve shared
-- **20** times ive thought how lucky I am to have you as a mom 
+- **20** times I've thought how lucky I am to have you as a mom 
 - **countless** times you helped brighten my day
 
 ---
